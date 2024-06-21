@@ -1,0 +1,61 @@
+/*--- Estilos generales ---*/
+
+header {
+  background-color: #14329f;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  border: 4px solid #a0a0a0;
+}
+
+h2 {
+  color: #fff;
+}
+
+hr {
+  border: 2px solid rgb(23, 155, 164);
+}
+
+/*--- Estilos para index --- */
+
+.datos-titulo {
+  color: #073dbd;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS';
+}
+
+.datos-titulo + p {
+  color: #2266c6;
+}
+
+.educacion > h2,
+h3 {
+  color: #2043dd;
+}
+
+section article p {
+  color: #1c4c9a;
+}
+
+/*--- Estilos para catalogo ---*/
+
+.raza p {
+  color: #06675c;
+  font-size: 17px;
+}
+
+section img {
+  border: 5px solid rgb(70, 16, 170);
+}
+
+/*--- Estilos para ensayo ---*/
+.letra h2 {
+  border: 4px dotted #91f7f7;
+}
+
+.letra p {
+  color: #756d0f;
+}
